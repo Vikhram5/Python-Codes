@@ -1,0 +1,6 @@
+//reverse indexing in python 
+//numbers[-2]
+
+flatten a nested list
+
+shallow copy and deep copy
